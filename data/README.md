@@ -1,1 +1,1 @@
-This is the data READ ME
+Dataset: https://projects.fivethirtyeight.com/soccer-api/club/spi_matches_latest.csv

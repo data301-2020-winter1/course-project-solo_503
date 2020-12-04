@@ -17,6 +17,7 @@ The dataset I chose was published by FiveThirtyEight. The data was taken from ES
 
 - Karanmeet Khatra
 
-## References
+## Link to my project video
 
-{Add your stuff here}
+https://youtu.be/iN7OLDcob4o
+
